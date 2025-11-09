@@ -1,1 +1,0 @@
-# UTS_DEEPL_B_202332119_Achmad-Sapta-Megan
