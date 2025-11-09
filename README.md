@@ -41,7 +41,7 @@ Proyek ini dikembangkan menggunakan Python. Pastikan Anda memiliki *library* ber
    * Tempatkan ke-30 citra tersebut di dalam folder data\_kustom/.  
    * **Catatan:** *Pipeline* pra-pemrosesan di dalam notebook (langkah-langkah seperti inversi warna, *resizing* ke 28x28, dan normalisasi) dirancang untuk memproses citra-citra mentah ini.1 Anda mungkin perlu menyesuaikan *path* (lokasi file) di dalam notebook jika Anda menamai folder secara berbeda.  
 4. **Jalankan Notebook:**  
-   * Buka file .ipynb (misalnya, UTS\_DEEPL\_\_\[NIM\]\_\[NAMA\].ipynb) menggunakan Jupyter Notebook atau Google Colab.  
+   * Buka file .ipynb menggunakan Google Colab.  
    * Jalankan sel-sel kode secara berurutan dari atas ke bawah.  
    * Notebook ini akan secara otomatis:  
      1. Memuat dan memproses dataset MNIST.1  
